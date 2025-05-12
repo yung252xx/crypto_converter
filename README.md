@@ -1,2 +1,2 @@
 # crypto_converter
-test converter for using coingecko and coinbase api's.  
+test converter using python for using coingecko and coinbase api's.  
